@@ -1,7 +1,7 @@
  ## Programador Junior
 - 👋 Hola soy estudiante de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala
 - 👀 Me interesa el desarrollo web
-- 🌱 Actualmente estoy en 7mo Semestre
+- 🌱 Actualmente estoy en 6to Semestre
  ##
 <div align="center">
   <a href="https://github.com/ifigueroa065">
