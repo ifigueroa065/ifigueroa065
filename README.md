@@ -1,4 +1,4 @@
- # Programador Junior
+ # Desarrollador Junior
 - 👋 Hola soy estudiante de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala
 - 👀 Me interesa el desarrollo web
 - 🌱 Actualmente estoy en 6to Semestre
