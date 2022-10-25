@@ -1,7 +1,7 @@
  # Desarrollador Junior :1st_place_medal: 
-  -  :earth_americas: Soy estudiante de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala 
-  - :computer: Tengo conocimientos básicos en desarrollo web
-  - :round_pushpin: Actualmente estoy en 6to Semestre
+  #### :earth_americas: Soy estudiante de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala 
+  #### :computer: Me interesa el desarrollo web
+  #### :round_pushpin: Actualmente estoy en 6to Semestre
    
   <br>
   
