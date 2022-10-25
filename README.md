@@ -1,8 +1,11 @@
- # Desarrollador Junior
-- 👋 Hola soy estudiante de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala
-- 👀 Me interesa el desarrollo web
-- 🌱 Actualmente estoy en 6to Semestre
- ##
+ # Desarrollador Junior :1st_place_medal: 
+  -  :earth_americas: Soy estudiante de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala 
+  - :computer: Tengo conocimientos básicos en desarrollo web
+  - :round_pushpin: Actualmente estoy en 6to Semestre
+   
+  <br>
+  
+    
 <div align="center">
   <a href="https://github.com/ifigueroa065">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ifigueroa065&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -26,7 +29,7 @@
    
 </div>
   
-  ## 
+   
   <div align="center"> 
   <a href="https://www.youtube.com/channel/UC7mwtTz1EjFzaNfdO9d3nfQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_ifigueroa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
