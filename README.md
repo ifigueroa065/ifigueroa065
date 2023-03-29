@@ -1,4 +1,4 @@
- # Desarrollador Junior :1st_place_medal: 
+ # Desarrollador Web  :1st_place_medal: 
   - :earth_americas: Soy estudiante de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala 
   - :computer: En este momento estoy en proceso de aprendizaje para ser Full Stack Developer en JavaScript. 
   - :round_pushpin: Estoy en 6to Semestre :grinning:
