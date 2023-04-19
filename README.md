@@ -39,6 +39,11 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ <p align="center">
+  <a href="https://github.com/ifigueroa065/pulls"><img src="https://github-readme-streak-stats.herokuapp.com?user=ifigueroa065&theme=github-dark&border_radius=8)"/></a>
+  
+</p>
 <!---
 ifigueroa065/ifigueroa065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
