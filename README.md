@@ -41,7 +41,7 @@
 </div>
  
  <p align="center">
-  <a href="https://github.com/ifigueroa065/pulls"><img src="https://github-readme-streak-stats.herokuapp.com?user=ifigueroa065&theme=github-dark&border_radius=8)"/></a>
+  <a href="https://github.com/ifigueroa065/"><img src="https://github-readme-streak-stats.herokuapp.com?user=ifigueroa065&theme=github-dark&border_radius=8)"/></a>
   
 </p>
 <!---
