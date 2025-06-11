@@ -2,9 +2,9 @@
  <div align="center">
  
  # Desarrollador Web  :1st_place_medal: 
-   :earth_americas: Soy estudiante de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala 
-   :computer: En este momento estoy en proceso de aprendizaje para ser Full Stack Developer. 
-   :round_pushpin: Estoy en 6to Semestre :grinning:
+   :earth_americas: Estudiante de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala <br>
+   :computer:  Full Stack Developer. <br>
+   :round_pushpin: Estoy en 8vo Semestre :grinning:
    
   <br>
  </div> 
